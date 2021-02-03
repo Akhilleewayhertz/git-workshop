@@ -3,7 +3,7 @@
 <script language ="javascript" type="text/javascript">
 document.write("akhil@leewayhertz")
 document.write("my")
-document.write(workshop1)
+document.write("workshop1")
 </script>
 <body>
 <html>
